@@ -10,7 +10,6 @@
 [![npm](https://img.shields.io/npm/dm/{{package-name}})](https://www.npmjs.com/package/{{package-name}}?activeTab=versions)
 [![PyPI](https://img.shields.io/pypi/v/{{package-name}})](https://pypi.org/project/{{package-name}}/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/{{package-name}})](https://pypi.org/project/{{package-name}}/)
-![License](https://img.shields.io/github/license/tdesposito/{{package-name}})
 [![Documentation Status](https://readthedocs.org/projects/{{package-name}}/badge/?version=latest)](https://{{package-name}}.readthedocs.io/en/latest/?badge=latest)
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-purple.svg)](https://www.buymeacoffee.com/tdesposito)
