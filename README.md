@@ -50,7 +50,6 @@ Please see our [License](/LICENSE).
 [gh-repo]: https://github.com/tdesposito/{{repo}}
 [gh-suggestions]: https://github.com/tdesposito/{{repo}}/discussions
 [npm-package]: https://npmjs.org/package/{{package}}
-[npm-package]: https://npmjs.org/package/{{package}}
 [npm-versions]: https://www.npmjs.com/package/{{package}}?activeTab=versions
 [pypi-project]: https://pypi.org/project/{{package}}/
 [rtd-latest]: https://{{package}}.readthedocs.io/en/latest/
